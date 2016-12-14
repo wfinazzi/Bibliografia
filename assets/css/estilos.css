@@ -1,0 +1,41 @@
+h1 {
+	font-size : 30px;
+	font-family: "Ebrima", "sans-serif";
+}
+
+h3 {
+	font-size : 20px;
+	font-family: "Ebrima", "sans-serif";
+}
+
+
+body{
+	font-size : 20px;
+	font-family: "Georgia", "sans-serif";
+}
+
+label {
+	font-size : 20px;
+	font-family: "Ebrima", "sans-serif";
+}
+
+option{
+	font-size : 20px;
+	font-family: "Ebrima", "sans-serif";
+}
+
+.btn {
+	font-size : 20px;
+	font-family: "Ebrima", "sans-serif";
+	font-style: bold;
+}
+
+.btn a {
+	text-decoration: none;
+}
+
+.form-control {
+	font-size : 17px;
+	font-family: "Ebrima", "sans-serif";
+	font-style: bold;
+}
